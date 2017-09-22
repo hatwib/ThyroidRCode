@@ -11,7 +11,6 @@ library(pROC)
 library(ROCR)
 rm(list=ls())
 
-
 setwd("C:/Class/Dissertation/Data/Meka/Thyroid/CSV")
 
 fileName = matrix("",nrow = 56, ncol = 1)
