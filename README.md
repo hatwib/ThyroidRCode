@@ -1,2 +1,0 @@
-"# JavaClassProjects" 
-"# ThyroidRCode" 
