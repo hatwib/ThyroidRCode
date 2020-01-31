@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(dplyr,"%>%")
+import(foreach)
+import(doParallel)

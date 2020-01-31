@@ -1,0 +1,16 @@
+Package: baif
+Type: Package
+Title: Binary Analytical Image Features Model for extractiong domain relevant features
+Version: 0.1.0
+Author: Hatwib Mugasa
+Maintainer: The package maintainer <mugasahat@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+URL: http://www.hatwib.com/
+Depends: R (>= 3.5.0)
+License: GPL (>= 2)
+Maintainer: 'Hatwib Mugasa' <mugasahat@gmail.com>
+Encoding: UTF-8
+LazyData: true
+Imports: dplyr, foreach, doParallel
+RoxygenNote: 6.1.0
